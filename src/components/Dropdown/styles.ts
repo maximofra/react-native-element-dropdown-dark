@@ -45,14 +45,15 @@ export const styles = StyleSheet.create({
   },
   textItem: {
     flex: 1,
-    fontSize: 16,
+    fontSize: 17,
+    color: '#fff'
   },
   icon: {
     width: 20,
     height: 20,
   },
   textError: {
-    color: 'red',
+    color: '#a10d0d',
     fontSize: 14,
     marginTop: 10,
   },
@@ -65,3 +66,4 @@ export const styles = StyleSheet.create({
     height: 45,
   },
 });
+
